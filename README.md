@@ -1,3 +1,3 @@
-xss encoding payloads
-jast write tag script and click Enter
-to get encoding payloads
+hxos
+just write URL and select method post
+XD
